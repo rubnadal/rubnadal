@@ -1,21 +1,20 @@
 ### Hola, sóc el Rubén 👋
 
-Sóc docent i desenvolupo eines pràctiques per al dia a dia: aplicacions web lleugeres sobre Google Workspace i skills per a agents de programació com [Claude Code](https://docs.claude.com/en/docs/claude-code).
+**Professor de FP en TIC · Coordinador d'innovació · Scrum Master**
 
-**En què treballo ara**
+Fa més de deu anys que faig classe als cicles de grau mitjà i superior de la família d'Informàtica i Comunicacions. Abans vaig passar una dècada a l'empresa, on vaig dissenyar i programar un ERP a mida.
 
-- Aplicacions web amb **Google Apps Script** i **Google Sheets** com a base de dades: plataformes d'avaluació, reserves i eines pensades per al mòbil.
-- **Skills validades per a Claude Code**: agafo el que he après en projectes reals, ho generalitzo i ho publico amb proves que demostren que funciona.
+**Què m'interessa**
+
+- **Metodologies actives a l'aula**: Scrum, Design Thinking i el Mètode Lombard, per apropar l'aula a com es treballa de veritat.
+- **Innovació educativa**: he assessorat centres als programes InnovaFP i ActivaFP per fer canvis que es mantinguin.
+- **Programar amb IA**: eines que ajuden docents i alumnes a desenvolupar millor amb agents de programació.
 
 **Projectes destacats**
 
 | Projecte | Què és |
 |---|---|
-| [claude-skills](https://github.com/rubnadal/claude-skills) | Marketplace de plugins per a Claude Code. El primer, `gas-webapp`, recull com fer web apps amb Apps Script i Sheets: seguretat del servidor, capa de dades, latència, tests amb Node i problemes coneguts ordenats per símptoma. Cada versió passa una porta de validació amb avaluacions. |
-
-**Amb què treballo**
-
-JavaScript · Google Apps Script · clasp · Node.js · Claude Code · Git
+| [claude-skills](https://github.com/rubnadal/claude-skills) | Marketplace de plugins per a Claude Code amb skills extretes de projectes reals. Cada versió es valida amb avaluacions abans de publicar-la. |
 
 **Com contactar-me**
 
